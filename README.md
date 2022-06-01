@@ -116,3 +116,5 @@ Creación de Machine Learning en Azure
 - También puede pedirnos iniciar sesión, en ese caso iniciamos sesión con el correo que tenemos la cuenta de Azure
 
 - Finalmente, Visual Studio Code nos mostrará una ventan con el código que habiamos escrito previamente y, desde ese espacio podemos modificarlo y se ejecutará en nuestro recurso en la nube
+
+![P4-27](https://github.com/AlanAlvaradoR/Azure-practica-4-ML/blob/main/imagenes/P4-27.PNG)
